@@ -18,7 +18,9 @@ Hardware: Arduino, Motores, drivers e sensores.<br>
 Ferramentas de Projeto: Tinkercad, Arduino IDE.<br>
 
 
-![tinker](https://github.com/user-attachments/assets/6c40c793-eab9-4653-bc34-670d3572b9c9) ![image](https://github.com/user-attachments/assets/b3fc8e88-8a22-462c-88de-737f81da48dc) 
+![tinker](https://github.com/user-attachments/assets/6c40c793-eab9-4653-bc34-670d3572b9c9) ![image](https://github.com/user-attachments/assets/b3fc8e88-8a22-462c-88de-737f81da48dc) <br>
+
+OBS: Código do arduino na branches.
 
 
 
