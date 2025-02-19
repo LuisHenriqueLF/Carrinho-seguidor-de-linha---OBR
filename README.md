@@ -4,8 +4,8 @@
   A experiência foi enriquecedora, proporcionando aprendizado prático sobre automação, eletrônica e programação embarcada, além de fortalecer o trabalho em equipe e a resolução de problemas em um ambiente de competição. 🚀
 
 ### Funcionamento:
-  Um carrinho seguidor de linha é um robô autônomo projetado para seguir um trajeto delimitado por uma linha no chão, geralmente preta sobre um fundo branco ou vice-versa. Ele utiliza sensores ópticos (como sensores infravermelhos ou fotodiodos) para detectar a linha e ajustar seu movimento de acordo com as variações do percurso.<br>
-  Os sensores identificam a posição da linha e enviam os dados ao microcontrolador, que interpreta essas informações e ajusta os motores para manter o carrinho no trajeto correto. Se o carrinho começar a desviar, um dos motores reduz a velocidade ou para, enquanto o outro continua girando, corrigindo a direção.
+Um carrinho seguidor de linha é um robô autônomo projetado para seguir um trajeto delimitado por uma linha no chão, geralmente preta sobre um fundo branco ou vice-versa. Ele utiliza sensores ópticos (como sensores infravermelhos ou fotodiodos) para detectar a linha e ajustar seu movimento de acordo com as variações do percurso.<br>
+Os sensores identificam a posição da linha e enviam os dados ao microcontrolador, que interpreta essas informações e ajusta os motores para manter o carrinho no trajeto correto. Se o carrinho começar a desviar, um dos motores reduz a velocidade ou para, enquanto o outro continua girando, corrigindo a direção.
 
 
 ### Em funcionamento
