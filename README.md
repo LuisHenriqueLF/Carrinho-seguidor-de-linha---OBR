@@ -12,7 +12,7 @@ Os sensores identificam a posição da linha e enviam os dados ao microcontrolad
 https://github.com/user-attachments/assets/eb861dad-b09e-4267-b009-794173cf0a58
 
 
-# Tecnologias usadas:
+# Sistema:
 Programação: C.<br>
 Hardware: Arduino, Motores, drivers e sensores.<br>
 Ferramentas de Projeto: Tinkercad, Arduino IDE.<br>
